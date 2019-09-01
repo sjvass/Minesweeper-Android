@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="flagBtn">Flag</string>
+    <string name="countdown">0</string>
+    <string name="numMines">0</string>
+    <string name="resetBtn">reset game button</string>
+    <string name="faceImg">face image</string>
+    <string name="width">Width:</string>
+    <string name="height">Height:</string>
+    <string name="mines">Mines:</string>
+    <string name="widthHint">Enter desired board width</string>
+    <string name="heightHint">Enter desired board height</string>
+    <string name="minesHint">Enter desired number of mines</string>
+    <string name="mines1">Mines:</string>
+    <string name="startBtn">Start Game</string>
+</resources>
